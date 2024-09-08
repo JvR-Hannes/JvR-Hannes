@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JvR-Hannes
 - 👀 I’m interested in Gaming and Apps
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#.Net
 - 📫 How to reach me @ Discord deimos9659
 
 <!---
