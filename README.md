@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JvR-Hannes
 - 👀 I’m interested in creating Games and Apps.
-- 🌱 I’m currently learning C#.Net/ ASP.Net/ Razor/ Blazor/ Javascript/ Next.js/ Node.js
+- 🌱 I’m currently learning C#.Net/ ASP.Net/ React / Javascript/ Next.js/ Node.js
 - 📫 How to reach me @ Discord deimos9659
 
 <!---
